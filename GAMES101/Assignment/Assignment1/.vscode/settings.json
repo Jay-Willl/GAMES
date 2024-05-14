@@ -1,0 +1,7 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "~/repo/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-linux"
+    },
+    "cmake.sourceDirectory": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/src"
+}

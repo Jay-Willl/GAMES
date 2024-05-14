@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/build",
+  "command": "/usr/bin/c++ -isystem /home/blank/repo/vcpkg/installed/x64-linux/include -g -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/src/main.cpp",
+  "file": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/src/main.cpp"
+},
+{
+  "directory": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/build",
+  "command": "/usr/bin/c++ -isystem /home/blank/repo/vcpkg/installed/x64-linux/include -g -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/src/rasterizer.cpp",
+  "file": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/src/rasterizer.cpp"
+},
+{
+  "directory": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/build",
+  "command": "/usr/bin/c++ -isystem /home/blank/repo/vcpkg/installed/x64-linux/include -g -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/src/Triangle.cpp",
+  "file": "/home/blank/repo_pro/project-games/GAMES101/Assignment/Assignment1/src/Triangle.cpp"
+}
+]
